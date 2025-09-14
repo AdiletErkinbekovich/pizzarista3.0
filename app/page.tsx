@@ -7,7 +7,7 @@ export default function Home() {
         <Title text="All pizzas" size="lg" className="font-extrabold" />
       </Container>
 
-      <TopBar />
+      <TopBar className="mb-10" />
 
       <Container className="pb-14">
         <div className="flex gap-[60px]">
